@@ -94,4 +94,4 @@ Jakob Hohwy是现任澳大利亚莫纳什大学哲学教授。他的研究领域
 
 负责人	：	李易知
 
-项目成员：	[Hao ZHAN](
+项目成员：	[Hao ZHAN](https://github.com/zhanhao93)
